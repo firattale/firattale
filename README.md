@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @firatstory
-- 👀 I’m interested in De-Fi and the blockchain space as a whole.
-- 💞️ I’m looking to collaborate on various projects in the blockchain and DeFi space.
+- 👋 Hi, I’m @firatstory.
+- 👀 I’m interested in DeFi and the blockchain space.
+- 💞️ I’m looking to collaborate on various projects in DeFi.
 - 📫 You may reach me on twitter @firatstory or email me at firatstory@gmail.com
