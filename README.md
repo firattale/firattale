@@ -1,6 +1,6 @@
 # Hey there, I'm Firat! 👋
 
-🚀 **Frontend Developer | Blockchain Enthusiast**
+🚀 **Frontend Developer | Web3 Security Researcher**
 
 Welcome to my GitHub space! I specialize in creating intuitive and dynamic user interfaces, with a keen interest in decentralized finance (DeFi) and blockchain technologies. 
 
